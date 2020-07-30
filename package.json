@@ -7,6 +7,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^4.5.0",
+    "gh-pages": "^3.1.0",
     "mdbreact": "^4.27.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.3.0",
@@ -36,5 +37,5 @@
       "last 1 safari version"
     ]
   },
-"homepage": "https://github.com/bahaadabbagh/FingerprintJS-ATO"
+  "homepage": "https://github.com/bahaadabbagh/FingerprintJS-ATO"
 }
